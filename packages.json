@@ -1,1 +1,12 @@
-
+{
+  "minimumVersion" : 1,
+  "packages" : [
+    {
+      "title" : "IgniteSMP-LightWeight",
+      "name" : "IgniteSMP-LightWeight",
+      "version" : "2022-08-24-17-21-11",
+      "location" : "ignitesmp-lightweight.json",
+      "priority" : 0
+    }
+  ]
+}
